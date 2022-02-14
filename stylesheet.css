@@ -104,3 +104,6 @@ a:hover{
 #barber-shop-name{
     text-align: center  ;
 }
+a:link{
+    text-decoration: none;
+}
