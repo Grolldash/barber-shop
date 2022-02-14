@@ -5,7 +5,7 @@ body{
     position: sticky;
     top: 0;
     width: 100%;
-    background-color:rgb(50, 50, 50);
+    background-color: black;
 }
 nav ul{
 padding: 5px;
@@ -48,9 +48,10 @@ a:hover{
         text-align: center;
         text-decoration: none;
         margin: 50px 0px 0px 0px;
+        opacity: 70%;
     }
 .fa:hover{
-        opacity: 0.7;
+        opacity: 100%;
     }
 .fa-facebook{
     position:absolute;
@@ -61,13 +62,17 @@ a:hover{
 
 #opening-time{
     position: absolute;
-    top: 5px;
+    top: 12px;
     left: 550px;
+    font-size: 15px;
+    opacity: 80%;
 }
 #phone-number{
     position: absolute;
-    top: 5px;
+    top: 12px;
     left: 1000px;
+    font-size: 15px;
+    opacity: 80%;
 }
 #about-barber-shop{
     width: 300px;
@@ -95,4 +100,7 @@ a:hover{
 }
 .about-barber-wrapper{
     display:grid
+}
+#barber-shop-name{
+    text-align: center  ;
 }
