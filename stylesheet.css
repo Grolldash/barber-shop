@@ -107,3 +107,9 @@ a:hover{
 a:link{
     text-decoration: none;
 }
+#about-and-photo-wrapper{
+width: 100%;
+display: grid;
+grid-template-columns: 60% 40%;
+margin-right: 200px;
+}
