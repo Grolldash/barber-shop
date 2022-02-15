@@ -110,6 +110,12 @@ a:link{
 #about-and-photo-wrapper{
 width: 100%;
 display: grid;
-grid-template-columns: 60% 40%;
-margin-right: 200px;
+grid-template-columns: 28% 1%;
+margin-right: 50px;
+}
+img{
+    width: 900px;
+    height: 450px;
+    border-radius: 8px;
+
 }
