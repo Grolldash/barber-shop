@@ -93,7 +93,7 @@ a:hover{
 
 }
 #our-team{
-        font-size: 20px;
+        font-size: 15px;
         text-align: center;
         
         margin-top: 10px;
@@ -103,7 +103,9 @@ a:hover{
     display:grid
 }
 #barber-shop-name{
-    text-align: center  ;
+    text-align: center;
+    font-size: 15px;
+    border: outset;
 }
 a:link{
     text-decoration: none;
