@@ -27,7 +27,7 @@ a:hover{
 #uppernavbar{
     width: 100%;
     background-color: rgb(224, 17, 17);
-    height: 10px;
+    height: 1px;
     padding: 15px;
     align-content: center;
     margin-top: 15px;
@@ -42,7 +42,7 @@ a:hover{
 }
 .fa{
 
-        padding: 5px;
+        padding: 2px;
         font-size: 20px;
         width: 20px;
         text-align: center;
@@ -55,21 +55,21 @@ a:hover{
     }
 .fa-facebook{
     position:absolute;
-    top: 10px;
-        background-color: blue;
-        margin: 10px 150px 10px 10px;
+    top: 9px;
+    background-color: blue;
+    margin: 10px 150px 10px 10px;
     }
 
 #opening-time{
     position: absolute;
-    top: 12px;
+    top: 8px;
     left: 550px;
     font-size: 15px;
     opacity: 80%;
 }
 #phone-number{
     position: absolute;
-    top: 12px;
+    top: 8px;
     left: 1000px;
     font-size: 15px;
     opacity: 80%;
@@ -117,7 +117,7 @@ grid-template-columns: 28% 1%;
 margin-right: 50px;
 }
 img{
-    width: 900px;
+    width: 450px;
     height: 450px;
     border-radius: 8px;
 }
@@ -126,4 +126,17 @@ img{
     font-size: 20px;
     margin: 20px 0px 0px 20px;
     padding-left: 40px;
+}
+#price-list-box{
+    margin-top: 300px;
+}
+.price-list-gender{
+    margin: 30px 0px 40px 18%;
+}
+#price-list{
+    margin: 30px 0px 40px 15%;
+    font-size: 120%;
+}
+div ul{
+    border-bottom: black;
 }
