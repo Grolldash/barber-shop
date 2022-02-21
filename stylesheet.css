@@ -124,19 +124,19 @@ img{
 #price-list-header{
     width: 200px;
     font-size: 20px;
-    margin: 20px 0px 0px 20px;
+    margin: 50px 0px 0px 185px;
     padding-left: 40px;
 }
 #price-list-box{
-    margin-top: 300px;
+    margin-top: 100px;
 }
 .price-list-gender{
     margin: 30px 0px 40px 18%;
 }
-#price-list{
+.price-list{
     margin: 30px 0px 40px 15%;
     font-size: 120%;
 }
-div ul{
-    border-bottom: black;
+.type-of-cut{
+    border-bottom: 1px solid rgb(87, 85, 85);
 }
