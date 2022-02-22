@@ -99,9 +99,11 @@ a:hover{
         margin-top: 10px;
         border: outset;
 }
-.about-barber-wrapper{
-    display:grid
-}
+#about-barber-wrapper{
+    display: grid;
+    grid-template-columns: 200px 300px;
+    grid-template-rows: 100%;
+    }
 #barber-shop-name{
     text-align: center;
     font-size: 15px;
