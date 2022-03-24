@@ -12,7 +12,7 @@ padding: 5px;
 }
 nav li{
     display: inline;
-    margin: 80px;
+    margin: 40px 16% 80px 40px;
     font-size: 25px;
 }
 a:link{
@@ -36,7 +36,6 @@ a:hover{
     width: 25%;
     height: 10px;
     align-content: center;
-    margin-right: 200px;
     color: white;
     font-size: 20px;
 }
@@ -63,14 +62,14 @@ a:hover{
 #opening-time{
     position: absolute;
     top: 8px;
-    left: 550px;
+    left: 40%;
     font-size: 15px;
     opacity: 80%;
 }
 #phone-number{
     position: absolute;
     top: 8px;
-    left: 1000px;
+    left: 80%;
     font-size: 15px;
     opacity: 80%;
 }
