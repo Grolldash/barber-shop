@@ -149,3 +149,10 @@ img{
     width: 100%;
     margin-left: 10%;
 }
+#gallery-photos-wrapper{
+    margin-left: 5%;
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    column-gap: 5%;
+    row-gap: 3%;
+}
